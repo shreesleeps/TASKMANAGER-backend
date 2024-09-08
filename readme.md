@@ -16,6 +16,7 @@ Anyone can signup via any random mail.
 
 .env
 MONGODB_URL=mongodb+srv://shreevardhan139:LFePIk0hHlBoFMsl@cluster0.gucng.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
 JWT_SECRET=shree
 
 ## Getting Started
